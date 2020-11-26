@@ -1,0 +1,100 @@
+[{
+        "icon": "fab fa-autoprefixer",
+        "title": "Authentication",
+        "description": "Generate tokens based on the OAuth 2.0 standard to authenticate requests made to Forge APIs and SDKs.",
+        "links": [{
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    },
+    {
+        "icon": "fab fa-bitcoin",
+        "title": "BIM 360",
+        "description": "Integrate with the Autodesk BIM 360 platform to extend its capabilities to reach segments of the construction ecosystem that don’t have direct access to BIM data.",
+        "links": [{
+                "title": "Intro",
+                "url": "/developer/en/api/dummy1/intro"
+            }, {
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    },
+    {
+        "icon": "fas fa-database",
+        "title": "Data Management",
+        "description": "Access data across BIM 360 team, Fusion Team, BIM 360 Docs, and the Object Storage Service to build apps to display and extend your data in ways that add value to your users.",
+        "links": [{
+                "title": "Intro",
+                "url": "/developer/en/api/dummy1/intro"
+            }, {
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    },
+    {
+        "icon": "fas fa-drafting-compass",
+        "title": "Design Automation",
+        "description": "Automate repetitive tasks by leveraging on the scale of the Forge Platform and running scripts on your design files in the cloud.",
+        "links": [{
+                "title": "Intro",
+                "url": "/developer/en/api/dummy1/intro"
+            }, {
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    },
+    {
+        "icon": "fas fa-clone",
+        "title": "Model Derivative",
+        "description": "Derive outputs viewable by the Forge Viewer from more than 60 CAD file formats, and extract metadata about the models as well as the individual objects within the model.",
+        "links": [{
+                "title": "Intro",
+                "url": "/developer/en/api/dummy1/intro"
+            }, {
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    },
+    {
+        "icon": "fas fa-crop-alt",
+        "title": "Reality Capture",
+        "description": "Convert digital images into high resolution textured meshes, dense point clouds and orthophotos.",
+        "links": [{
+                "title": "Intro",
+                "url": "/developer/en/api/dummy1/intro"
+            }, {
+                "title": "Developer's guide",
+                "url": "/developer/en/api/dummy1/guide"
+            },
+            {
+                "title": "API reference",
+                "url": "/developer/en/api/dummy1/reference"
+            }
+        ]
+    }
+]
